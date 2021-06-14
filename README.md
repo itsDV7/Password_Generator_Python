@@ -1,6 +1,6 @@
 # Password Generator Python
 
-Password Generator in Python can be used to create secure passwords from length 1 to 32 containing alphabets (Uppercase and Lowercase), digits, and special characters at random places. 
+Password Generator in Python can be used to create secure passwords for length upto 32 containing alphabets (Uppercase and Lowercase), digits, and special characters at random places. 
 
 # Arguments and Usage
 ## Usage
